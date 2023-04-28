@@ -1,5 +1,5 @@
 footer {
-  padding: 2rem;
+  padding: 200px;
   background-color: var(--overlay-background-color);
   font-size: var(--body-font-size-s);
 }
@@ -11,5 +11,5 @@ footer .footer {
 
 footer .footer p {
   margin: 0;
-  color: green;
+  
 }
